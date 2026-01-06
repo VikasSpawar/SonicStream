@@ -7,7 +7,7 @@
 
 **SonicStream** is a full-stack music streaming web application built with the PERN-adjacent stack (Postgres via Supabase, Express, React, Node.js). It features real-time audio streaming, dynamic playlists, authentication, and a modern "Glassmorphism" UI.
 
-![SonicStream Screenshot](https://via.placeholder.com/1200x600?text=SonicStream+Dashboard+Preview)
+![SonicStream Screenshot](https://raw.githubusercontent.com/VikasSpawar/SonicStream/refs/heads/main/client/public/SonicStreamHome.PNG)
 
 
 ---
