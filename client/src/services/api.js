@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:5000/api', // Pointing to your Node Server
+  baseURL: import.meta.env.VITE_SERVER_URL || 'http://localhost:5000/api', // Pointing to your Node Server
 });
 
 export const fetchTracks = () => API.get('/music');
