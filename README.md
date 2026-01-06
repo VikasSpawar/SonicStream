@@ -1,16 +1,4 @@
-Here is a professional, portfolio-ready `README.md` file for your **SonicStream** project.
 
-It is structured to impress recruiters by highlighting the Architecture, Tech Stack, and Features.
-
-**Instructions:**
-
-1. Create a file named `README.md` in your **root folder**.
-2. Paste the code below.
-3. (Optional) Take a screenshot of your Home page and save it as `screenshot.png` in the root to replace the placeholder image.
-
----
-
-```markdown
 # 🎵 SonicStream
 
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
