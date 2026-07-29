@@ -3,7 +3,7 @@
 
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Tech Stack](https://img.shields.io/badge/stack-PERN-orange.svg)
+![Tech Stack](https://img.shields.io/badge/stack-MERN-orange.svg)
 
 **SonicStream** is a full-stack music streaming web application built with the PERN-adjacent stack (Postgres via Supabase, Express, React, Node.js). It features real-time audio streaming, dynamic playlists, authentication, and a modern "Glassmorphism" UI.
 
